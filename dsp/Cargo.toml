@@ -1,0 +1,11 @@
+[package]
+name = "voxdsp"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "voxdsp"
+crate-type = ["cdylib", "staticlib"]
+
+[dependencies]
+voxbox = { path = "../lib/voxbox" }

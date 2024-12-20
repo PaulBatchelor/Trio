@@ -1,0 +1,3 @@
+[submodule "lib/voxbox"]
+	path = lib/voxbox
+	url = https://github.com/PaulBatchelor/voxbox.git

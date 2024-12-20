@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.fullscreen {
+    //border: 4px black solid;
+    touch-action: none;
+}
